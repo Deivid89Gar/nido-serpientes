@@ -506,6 +506,7 @@ export default function Home() {
         Catálogo demostrativo. La disponibilidad y cualquier traslado dependen de la legislación aplicable y de confirmar condiciones de bienestar, procedencia y documentación con un especialista.
       </p>
       <p className="screen-reader-status" role="status" aria-live="polite">{notice}</p>
+      <p>Proyecto final de la materia Ingeniería de software - David Garcia Magallon - 219713849</p>
     </>
   );
 }
